@@ -8,11 +8,11 @@ I'm a Ph.D. student in robotics engineering. I work for the PIC4SeR center in Po
 <a href="https://github.com/Fixit-Davide/github-readme-stats">
   <picture>
     <source
-      srcset="github-readme-stats-sigma-five.vercel.app/api?username=andreaostuni&show_icons=true&theme=dark&rank_icon=github&count_private=true"
+      srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=andreaostuni&show_icons=true&theme=dark&rank_icon=github&count_private=true"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="github-readme-stats-sigma-five.vercel.app/api?username=andreaostuni&show_icons=true&rank_icon=github&count_private=true"
+      srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=andreaostuni&show_icons=true&rank_icon=github&count_private=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img height=150 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=andreaostuni&show_icons=true&rank_icon=github&count_private=true" />
@@ -24,7 +24,7 @@ I'm a Ph.D. student in robotics engineering. I work for the PIC4SeR center in Po
 <a href="https://github.com/anuraghazra/convoychat">
   <picture>
     <source
-      srcset="https://github-readme-stats-sigma-five.vercel.app.vercel.app/api?username=andreaostuni&layout=compact&langs_count=8&card_width=310&theme=dark"
+      srcset="https://github-readme-stats-sigma-five.vercel.app.vercel.app/api/top-langs?username=andreaostuni&layout=compact&langs_count=8&card_width=310&theme=dark"
       media="(prefers-color-scheme: dark)"
     />
     <source
