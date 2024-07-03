@@ -15,7 +15,7 @@ I'm a Ph.D. student in robotics engineering. I work for the PIC4SeR center in Po
       srcset="https://github-readme-stats.vercel.app/api?username=andreaostuni&show_icons=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img height=150 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=andreaostuni&show_icons=true" />
+    <img height=150 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=andreaostuni&show_icons=true&rank_icon=github&count_private=true" />
   </picture>
 </a>
 <!-- <a href="https://github.com/Fixit-Davide/github-readme-stats">
